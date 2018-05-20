@@ -1,0 +1,13 @@
+Приложение разработано по заказу Janus Worldwide.
+Оно достаточно специфично и предназначено для оптимизации работы переводчика.
+Целью работы программы является разбор макросов с сайта Однокласники, последующий перевод живым переводчиком всех полученных по результатам разборки возможных комбинаций фраз и обратная сборка макроса из переведенных выражений.
+Выложить исходники нет возможности, т.к. права на программу переданы заказчику - компании Janus WW.
+
+
+The application is designed by order of Janus Worldwide.
+It is quite specific and is intended to optimize the work of an interpreter.
+The purposes of the program are:
+1. parse macros from the "Classmates" social network
+2. translation by a live translator of all possible combinations of phrases resulting from the disassembly
+3. assembly of a macro from translated expressions
+There is no possibility to put source codes, tk. the rights to the program have been transferred to the customer - Janus WW
